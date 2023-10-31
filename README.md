@@ -1,5 +1,5 @@
 # Blur-Demonstration
- A simple HTML/JS to demonstrate a blur popup.
+ A simple HTML/CSS/JS application to demonstrate a blur popup.
 
  Sources used: 
  fontawesome.com
